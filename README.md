@@ -22,4 +22,4 @@
 ## Run Application 
 ### Open solution in Visual Studio 2022
 ### Set .Web project as Startup Project and build the project.
-## Run the application.
+### Run the application.
