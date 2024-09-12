@@ -1,0 +1,6 @@
+@ContactInformationAPI_HostAddress = http://localhost:5048
+
+GET {{ContactInformationAPI_HostAddress}}/swagger/
+Accept: application/json
+
+###
